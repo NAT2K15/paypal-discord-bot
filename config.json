@@ -1,0 +1,30 @@
+{
+    "token": "",
+    "prefix": "?",
+
+    "paypal_info": {
+        "option": "live",
+        "client": "",
+        "secret": "",
+        "email": "",
+        "tos": "put ur cool tos in here"
+    },
+
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "name": "paypalbot"
+    },
+
+    "embed": {
+        "color": "#000000",
+        "footer": "Made by NAT2K15",
+        "logo": ""
+    },
+
+    "perms_info": {
+        "support_roles": [""]
+    }
+
+}
