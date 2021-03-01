@@ -4,9 +4,9 @@
 
     "paypal_info": {
         "option": "live",
-        "client": "",
-        "secret": "",
-        "email": "",
+        "client": "your client",
+        "secret": "your client secret",
+        "email": "your paypal email account",
         "tos": "put ur cool tos in here"
     },
 
